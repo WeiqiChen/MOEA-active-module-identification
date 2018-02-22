@@ -1,6 +1,6 @@
 # MOEA-active-module-identification
 
-This is the MATLAB source code and input data for the paper
+This is the MATLAB source code and input data for the published paper
 
 Chen W, Liu J, He S. Prior knowledge guided active modules identification: an integrated multi-objective approach[J]. BMC systems biology, 2017, 11(2): 8.
 
