@@ -1,11 +1,12 @@
 # MOEA-active-module-identification
 
 This is the MATLAB source code and input data for the paper
+
 Chen W, Liu J, He S. Prior knowledge guided active modules identification: an integrated multi-objective approach[J]. BMC systems biology, 2017, 11(2): 8.
 
-Data folder provides two experimental networks in .mat format.
+Folder data provides two experimental networks in .mat format.
 
-Src folder provides the MATLAB source code.
+Folder src provides the MATLAB source code.
 
 To run this program, simply put data and code in the same folder and run MAIN.m script.
 
